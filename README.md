@@ -1,12 +1,12 @@
 # 29-SpatialHackers
 
-29- Spatial Hackers
-Topic- Developing landslide management plan
-Region- Uttarakhand
-SDG#15
-Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss
 
-STEPS FOLLOWED
+#Topic- Developing landslide management plan
+#Region- Uttarakhand
+#SDG#15
+#Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss
+
+STEPS FOLLOWED/
 •	Made LULC map of 2022 and 2016 to understand change
 •	Made soil map of Uttarakhand
 •	Made landslide density heatmap of Chamoli landslide, 2022
